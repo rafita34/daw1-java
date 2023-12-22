@@ -13,7 +13,7 @@ public class cantidad5 {
         int contador = 0;
 
         // Utilizar un bucle while para contar los dígitos 5
-        while (numero < 0) {
+        while (numero > 0) {
             // Obtener el último dígito del número
             int digito = numero % 10;
 
